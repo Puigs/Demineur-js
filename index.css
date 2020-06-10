@@ -1,0 +1,66 @@
+body{
+	margin : 0;
+}
+
+h1 {
+	text-align:center;
+	font-size: 40px;
+	border: solid 2px;
+}
+
+table {
+	border-collapse : collapse;
+	margin-left : auto;
+	margin-top : 50px;
+	margin-right : auto;
+}
+
+.vide {
+	background-image: url("asset/vide.png");
+}
+
+.bomb {
+	background-image: url("asset/mine.png");
+}
+
+.hidden {
+	background-image: url("asset/cache.png");
+}
+
+.un {
+	background-image: url("asset/un.png");
+}
+
+.deux {
+	background-image: url("asset/deux.png");
+}
+
+.trois {
+	background-image: url("asset/trois.png");
+}
+
+.quatre {
+	background-image: url("asset/quatre.png");
+}
+
+.cinq {
+	background-image: url("asset/cinq.png");
+}
+
+.six {
+	background-image: url("asset/six.png");
+}
+
+.sept {
+	background-image: url("asset/sept.png");
+}
+
+.huit {
+	background-image: url("asset/huit.png");
+}
+
+td{
+	width : 30px;
+	height : 30px;
+	border : solid 1px black;
+}
